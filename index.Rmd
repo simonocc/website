@@ -1,0 +1,34 @@
+---
+title: "Simon Occleshaw"
+image: "picture_simon_occleshaw.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/simonoccleshaw/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Simon Occleshaw's career to date has focused on delivering tools and analysis that generate business insight from the rich datasets relating to People including but not limited to Attraction, Talent Management and Retention.
+
+**Specialties**
+Business analysis, problem solving, managing analytics teams, experience across a wide variety of tools - Oracle, SAP / Business Objects, Taleo, Tableau, Alteryx and R
+
+## Education
+
+**Oxford Brookes University** | Oxford, UK
+
+BSc Mathematical Sciences | July 1998
+
+## Experience
+
+**Pearson** | People Anayltics | July 2015 - Present
+
+**BP** | Learning Transformation, HR Applications, Reporting and Analytics | September 1997 - January 2015
